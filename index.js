@@ -53,3 +53,20 @@ function countSpacesHelper(index, str){
 }
 
 //q5
+/*question 5:
+a) employee with highest salary:
+name: Tokuyash Pesch
+birthday: 1953-11-14
+department: Sales
+managers: 
+  early dates: Przemyslewa Kaelbling
+  now: Hauke Zhang
+
+b) employee with lowest salary:
+name: Olivera Baek
+birthday: 1953-09-23
+department: Production
+managers: 
+  earlier dates: Krassimir Wegerle, Rosine Cools, Shem Kieras
+  now: Oscar Ghazalie
+*/
