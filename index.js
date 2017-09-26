@@ -69,4 +69,12 @@ department: Production
 managers: 
   earlier dates: Krassimir Wegerle, Rosine Cools, Shem Kieras
   now: Oscar Ghazalie
+  
+  forgot to share the queries:
+select emp_no, salary from salaries order by salary; // to find out who has the lowest and highest salaries
+select first_name, last_name, birth_date from employees where emp_no = ...; //to get the name and birthday
+select dept_no from dept_emp where emp_no = ...;//to get the department number
+select dept_name from departments where dept_no = ...;//to get the department name
+select emp_no from dept_manager where dept_no = ...;//to get the department manager number
+select from_date, to_date from dept_manager where emp_no = ....;//to get the dates the managers worked
 */
